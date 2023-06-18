@@ -1,0 +1,57 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Levinson(2016)]{levinson2016box}
+LEVINSON M.
+\newblock The box\allowbreak[M]//\allowbreak
+The Box.
+\newblock Princeton University Press, 2016.
+
+\bibitem[宋薇萍(2022)]{shanghai2022report}
+宋薇萍.
+\newblock
+  上海国际航运研究中心报告：2021年全球港口集装箱吞吐量增速回升至6.5\%
+  总规模超过疫情前水平\allowbreak[J/OL].
+\newblock 上海证券报·中国证券网, 2022.
+\newblock \url{https://news.cnstock.com/news,bwkx-202204-4862514.htm}.
+
+\bibitem[谢琛\ 等(2015)谢琛, 张攀攀, and
+  费海波]{谢琛2015集装箱扭锁技术的现状及发展趋势}
+谢琛, 张攀攀, 费海波.
+\newblock 集装箱扭锁技术的现状及发展趋势\allowbreak[J].
+\newblock 中国水运: 下半月, 2015\allowbreak (7): 38-40.
+
+\bibitem[平原(2018)]{平原2018机器人扭锁自动化装卸抓取规划研究}
+平原.
+\newblock 机器人扭锁自动化装卸抓取规划研究\allowbreak[D].
+\newblock 大连交通大学, 2018.
+
+\bibitem[Niku(2020)]{niku2020introduction}
+NIKU S~B.
+\newblock Introduction to robotics: analysis, control,
+  applications\allowbreak[M].
+\newblock John Wiley \& Sons, 2020.
+
+\bibitem[Denavit et~al.(1955)Denavit and Hartenberg]{1955A}
+DENAVIT J, HARTENBERG R~S.
+\newblock A kinematic notation for lower-pair mechanisms\allowbreak[J].
+\newblock Journal of Applied Mechanics, 1955, 22.
+
+\bibitem[周国义\ 等(2009)周国义, 谢明红, 孙友生, and
+  刘仁中]{周国义20096}
+周国义, 谢明红, 孙友生, 等.
+\newblock 6
+  自由度解耦机器人运动学逆解优化的研究\allowbreak[J].
+\newblock 机电产品开发与创新, 2009\allowbreak (5): 21-23.
+
+\end{thebibliography}
